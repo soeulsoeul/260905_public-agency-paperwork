@@ -24,7 +24,7 @@
 | `docs/official-document-style-guide.md` | 개조식 공문서 문체와 편집 기준 |
 | `docs/workflow-catalog.md` | 요청부터 결과 검토까지의 표준 흐름 |
 | `docs/operational-runbook.md` | 운영, 기록, 장애·오류 대응 기준 |
-| `documents/<주제>/` | `document-drafter`가 작성한 문서 산출물을 주제별로 모아 두는 폴더 (`CLAUDE.md`의 "산출물 저장 위치" 참조) |
+| `documents/YYMMDD_<주제>/` | `document-drafter`가 작성한 문서 산출물을 주제별로 모아 두는 폴더. `YYMMDD`는 해당 주제 폴더 최초 생성일 (`CLAUDE.md`의 "산출물 저장 위치" 참조) |
 
 ## 메타 스킬 (`.claude/skills/`)
 
